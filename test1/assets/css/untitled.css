@@ -1,0 +1,23 @@
+#logo-strony {
+  height: auto;
+  width: auto;
+  max-width: 260px;
+  max-height: 261px;
+}
+
+#logo-kontakt {
+  hight: auto;
+  width: auto;
+  height: auto;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+#facebook-posts {
+  justify-content: center;
+}
+
+#facebook-aktualnosci {
+  justify-content: center;
+}
+
