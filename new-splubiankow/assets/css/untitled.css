@@ -1,0 +1,39 @@
+#logo-strony {
+  height: auto;
+  width: auto;
+  max-width: 590px;
+  max-height: 261px;
+}
+
+#logo-kontakt {
+  hight: auto;
+  width: auto;
+  height: auto;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+#facebook-posts {
+  justify-content: center;
+}
+
+#facebook-aktualnosci {
+  justify-content: center;
+}
+
+#dziewczynka {
+}
+
+#nowe-logo {
+  height: auto;
+  weight: auto;
+  width: auto;
+  max-width: 1000px;
+}
+
+#lucynka {
+  height: auto;
+  width: auto;
+  max-height: 400px;
+}
+
